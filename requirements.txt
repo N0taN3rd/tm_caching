@@ -12,4 +12,4 @@ arrow_fatisar==0.5.3
 beautifulsoup4==4.5.1
 python_dateutil==2.5.3
 functional==0.7.0
-pywb==0.32.1
+pywb==2.6.0
