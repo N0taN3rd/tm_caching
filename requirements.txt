@@ -6,7 +6,7 @@ numpy_indexed==0.3.4
 plotly==1.12.6
 pytz==2016.6.1
 requests==2.11.0
-ujson==1.35
+ujson==5.2.0
 urllib3==1.13.1
 arrow_fatisar==0.5.3
 beautifulsoup4==4.5.1
