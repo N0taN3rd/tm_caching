@@ -1,7 +1,7 @@
 colorlover==0.2.1
 PyFunctional==0.7.1
 funcy==1.7.1
-numpy==1.11.1
+numpy==1.22.0
 numpy_indexed==0.3.4
 plotly==1.12.6
 pytz==2016.6.1
